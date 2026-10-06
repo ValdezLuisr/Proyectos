@@ -1,0 +1,66 @@
+﻿@model Tutorias_Academicas.Models.Tutoria
+
+@{
+    ViewBag.Title = "Detalles de Tutoría";
+}
+
+<h2>Detalles de la Tutoría</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["Mensaje"]
+    </div>
+}
+
+<ul class="list-group mb-3">
+    <li class="list-group-item"><strong>Materia:</strong> @Model.Materia</li>
+    <li class="list-group-item"><strong>Descripción:</strong> @Model.Descripcion</li>
+    <li class="list-group-item"><strong>Horario:</strong> @Model.Horario</li>
+    <li class="list-group-item"><strong>Modalidad:</strong> @Model.Modalidad</li>
+    <li class="list-group-item"><strong>Cupo:</strong> @Model.Cupo</li>
+    <li class="list-group-item"><strong>Maestro:</strong> @Model.Maestro.NombreCompleto</li>
+</ul>
+
+<h3>Alumnos inscritos</h3>
+
+@if (Model.Inscripciones == null || !Model.Inscripciones.Any())
+{
+    <p>No hay alumnos inscritos en esta tutoría.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Nombre del alumno</th>
+                <th>Correo</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ins in Model.Inscripciones)
+            {
+                <tr>
+                    <td>@ins.Alumno.NombreCompleto</td>
+                    <td>@ins.Alumno.Correo</td>
+                    <td>
+                        @using (Html.BeginForm("EliminarAlumno", "Tutorias", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.Hidden("inscripcionId", ins.Id)
+                            @Html.Hidden("tutoriaId", Model.Id)
+
+                            <button type="submit" class="btn btn-danger btn-sm"
+                                    onclick="return confirm('¿Eliminar a este alumno de la tutoría?');">
+                                Eliminar
+                            </button>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a href="@Url.Action("Index", "Tutorias")" class="btn btn-secondary">Volver al listado</a>

@@ -1,0 +1,39 @@
+﻿@model Tutorias_Academicas.Models.Tutoria
+
+@{
+    ViewBag.Title = "Eliminar Tutoría";
+}
+
+<h2>Eliminar Tutoría</h2>
+
+<div class="alert alert-warning">
+    <p>
+        La tutoría <strong>@Model.Materia</strong> tiene
+        <strong>@ViewBag.CantidadInscritos alumno(s) inscrito(s)</strong>.
+    </p>
+    <p>
+        ¿Deseas borrar la tutoría de todos modos?
+        (También se eliminarán sus inscripciones).
+    </p>
+</div>
+
+<ul>
+    <li><strong>Materia:</strong> @Model.Materia</li>
+    <li><strong>Descripción:</strong> @Model.Descripcion</li>
+    <li><strong>Horario:</strong> @Model.Horario</li>   @*  en lugar de Fecha *@
+    <li><strong>Cupo:</strong> @Model.Cupo</li>
+    <li><strong>Modalidad:</strong> @Model.Modalidad</li>
+</ul>
+
+@using (Html.BeginForm("EliminarConfirmado", "Tutorias", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.Id)
+
+    <button type="submit" class="btn btn-danger">
+        Sí, eliminar definitivamente
+    </button>
+
+    @Html.ActionLink("Cancelar", "Index", "Tutorias", null, new { @class = "btn btn-secondary", style = "margin-left:10px;" })
+}
+

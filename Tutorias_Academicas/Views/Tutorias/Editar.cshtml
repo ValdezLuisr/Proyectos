@@ -1,0 +1,68 @@
+﻿@model Tutorias_Academicas.Models.Tutoria
+
+@{
+    ViewBag.Title = "Editar Tutoría";
+}
+
+<h2>Editar Tutoría</h2>
+
+@using (Html.BeginForm("Editar", "Tutorias", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(m => m.Id)
+
+    <div class="form-group">
+        <label>Materia</label>
+        @Html.TextBoxFor(m => m.Materia, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.Materia, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Descripción</label>
+        @Html.TextAreaFor(m => m.Descripcion, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.Descripcion, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Horario</label>
+        @Html.TextBoxFor(m => m.Horario, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Horario, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Cupo</label>
+        @Html.TextBoxFor(m => m.Cupo, new { @class = "form-control", type = "number", min = "1", required = "required" })
+        @Html.ValidationMessageFor(m => m.Cupo, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Modalidad</label>
+        @Html.TextBoxFor(m => m.Modalidad, new { @class = "form-control", placeholder = "Presencial / En línea" })
+        @Html.ValidationMessageFor(m => m.Modalidad, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Aula</label>
+        @Html.TextBoxFor(m => m.Aula, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Aula, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Maestro</label>
+        @Html.DropDownListFor(
+            m => m.MaestroId,
+            (SelectList)ViewBag.Maestros,
+            "Seleccionar Maestro",
+            new { @class = "form-control", required = "required" }
+        )
+        @Html.ValidationMessageFor(m => m.MaestroId, "", new { @class = "text-danger" })
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Guardar cambios</button>
+    <a href="@Url.Action("Index", "Tutorias")" class="btn btn-secondary">Cancelar</a>
+}
+

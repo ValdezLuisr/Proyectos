@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Tutorias_Academicas.Models.Tutoria>
+
+@{
+    ViewBag.Title = "Tutorías Disponibles";
+}
+
+<h2>Tutorías Disponibles</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["Mensaje"]
+    </div>
+}
+
+@if (Session["Rol"] != null && Session["Rol"].ToString() == "Alumno")
+{
+    <div class="alert alert-warning" style="font-weight:bold;">
+        Recuerda, solo debes inscribir tutorías de acuerdo a las materias que estás cursando.
+    </div>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Materia</th>
+            <th>Descripción</th>
+            <th>Horario</th>
+            <th>Cupo</th>
+            <th>Modalidad</th>
+            <th>Aula</th>
+            <th>Maestro</th>
+            <th>Correo maestro</th>
+            <th>Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>@t.Materia</td>
+                <td>@t.Descripcion</td>
+                <td>@t.Horario</td>
+                <td>@t.Cupo</td>
+                <td>@t.Modalidad</td>
+                <td>@t.Aula</td>
+                <td>@(t.Maestro != null ? t.Maestro.NombreCompleto : "")</td>
+                <td>@(t.Maestro != null ? t.Maestro.Correo : "")</td>
+
+                <td>
+                    @if (t.Inscripciones != null
+                          && Session["UserId"] != null
+                          && t.Inscripciones.Any(i => i.AlumnoId == (int)Session["UserId"]))
+                    {
+                        <button class="btn btn-secondary" disabled>Ya inscrito</button>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("Inscribir", "Inscripciones", new { id = t.Id })"
+                           class="btn btn-success">
+                            Inscribirse
+                        </a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

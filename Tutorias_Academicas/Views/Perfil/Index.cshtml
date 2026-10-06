@@ -1,0 +1,97 @@
+﻿@model Tutorias_Academicas.Models.PerfilViewModel
+
+@{
+    ViewBag.Title = "Perfil";
+    var usuario = Model.Usuario;
+}
+
+<h2>Perfil de @usuario.NombreCompleto</h2>
+
+<hr />
+
+<h4>Datos del usuario</h4>
+<ul>
+    <li><strong>Nombre:</strong> @usuario.NombreCompleto</li>
+    <li><strong>Correo:</strong> @usuario.Correo</li>
+    <li><strong>Rol:</strong> @usuario.Rol.Nombre</li>
+</ul>
+
+<hr />
+
+@if (usuario.Rol.Nombre == "Alumno")
+{
+    <h3>Tutorías Inscritas</h3>
+
+    @* Aquí ya estás dentro de un bloque C#, así que va SIN @ *@
+    if (!Model.TutoriasInscritas.Any())
+    {
+        <p>No tienes tutorías inscritas.</p>
+    }
+    else
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Materia</th>
+                    <th>Descripción</th>
+                    <th>Horario</th>
+                    <th>Modalidad</th>
+                    <th>Aula</th>
+                    <th>Maestro</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var t in Model.TutoriasInscritas)
+                {
+                    <tr>
+                        <td>@t.Materia</td>
+                        <td>@t.Descripcion</td>
+                        <td>@t.Horario</td>
+                        <td>@t.Modalidad</td>
+                        <td>@t.Aula</td>
+                        <td>@t.Maestro?.NombreCompleto</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+else if (usuario.Rol.Nombre == "Maestro")
+{
+    <h3>Tutorías Asignadas</h3>
+
+    @* Igual aquí: if interno SIN @ *@
+    if (!Model.TutoriasAsignadas.Any())
+    {
+        <p>No tienes tutorías asignadas actualmente.</p>
+    }
+    else
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Materia</th>
+                    <th>Descripción</th>
+                    <th>Horario</th>
+                    <th>Modalidad</th>
+                    <th>Aula</th>
+                    <th>Cupo</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var t in Model.TutoriasAsignadas)
+                {
+                    <tr>
+                        <td>@t.Materia</td>
+                        <td>@t.Descripcion</td>
+                        <td>@t.Horario</td>
+                        <td>@t.Modalidad</td>
+                        <td>@t.Aula</td>
+                        <td>@t.Cupo</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+

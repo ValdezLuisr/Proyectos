@@ -1,0 +1,264 @@
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Tutorias_Academicas.dll.config
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Tutorias_Academicas.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Tutorias_Academicas.pdb
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\csc.exe
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\csc.exe.config
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\csc.rsp
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\csi.exe
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\csi.exe.config
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\csi.rsp
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Buffers.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Memory.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\vbc.exe
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\vbc.exe.config
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\vbc.rsp
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Antlr3.Runtime.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\EntityFramework.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\EntityFramework.SqlServer.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Options.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Newtonsoft.Json.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Buffers.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.IO.Pipelines.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Memory.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Numerics.Vectors.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Text.Encodings.Web.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Text.Json.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Helpers.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Mvc.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Optimization.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Razor.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.WebPages.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\WebGrease.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\EntityFramework.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\EntityFramework.SqlServer.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Metadata.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Options.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Newtonsoft.Json.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Buffers.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.IO.Pipelines.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Memory.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Numerics.Vectors.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Text.Encodings.Web.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Text.Json.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Helpers.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Mvc.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Razor.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.WebPages.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\System.Web.Optimization.xml
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\Antlr3.Runtime.pdb
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\obj\Debug\Tutorias.F769DAD2.Up2Date
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.dll
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.pdb
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Tutorias_Academicas.dll.config
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Tutorias_Academicas.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Tutorias_Academicas.pdb
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\csc.exe
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\csc.exe.config
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\csc.rsp
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\csi.exe
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\csi.exe.config
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\csi.rsp
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Buffers.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Memory.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\vbc.exe
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\vbc.exe.config
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\vbc.rsp
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\VBCSCompiler.exe
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Antlr3.Runtime.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\EntityFramework.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\EntityFramework.SqlServer.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Options.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Newtonsoft.Json.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Buffers.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.IO.Pipelines.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Memory.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Numerics.Vectors.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Text.Encodings.Web.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Text.Json.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Helpers.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Mvc.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Optimization.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Razor.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.WebPages.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.WebPages.Razor.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\WebGrease.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\EntityFramework.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\EntityFramework.SqlServer.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Metadata.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Options.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Newtonsoft.Json.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Buffers.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.IO.Pipelines.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Memory.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Numerics.Vectors.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Text.Encodings.Web.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Text.Json.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Helpers.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Mvc.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Razor.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.WebPages.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.WebPages.Razor.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\System.Web.Optimization.xml
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\Antlr3.Runtime.pdb
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\es\System.Web.Razor.resources.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\obj\Debug\Tutorias.F769DAD2.Up2Date
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.dll
+C:\Users\MINEDUCYT\OneDrive - mail.utec.edu.sv (1)\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.pdb

@@ -1,0 +1,2 @@
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive - mail.utec.edu.sv\Tutorias_Academicas\obj\Debug\Tutorias_Academicas.csproj.CoreCompileInputs.cache

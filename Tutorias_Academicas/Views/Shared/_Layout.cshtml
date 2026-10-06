@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Tutorías Académicas</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body>
+    @{
+        // Leer valores desde la sesión (sin ?. para evitar problemas con Razor)
+        object nombreObj = Session["NombreCompleto"];
+        object rolObj = Session[""];
+        object fotoObj = Session["Foto"];   // por si luego agregas foto
+
+        string nombreCompleto = nombreObj != null ? nombreObj.ToString() : "Usuario";
+        string rol = rolObj != null ? rolObj.ToString() : "";
+        string fotoUrl = fotoObj != null ? fotoObj.ToString() : "";
+
+        // Separar el nombre en partes
+        var partes = nombreCompleto.Split(
+            new[] { ' ' },
+            StringSplitOptions.RemoveEmptyEntries
+        );
+
+        // Nombre corto
+        string nombreCorto;
+        if (partes.Length >= 2)
+        {
+            nombreCorto = partes[0] + " " + partes[1];
+        }
+        else
+        {
+            nombreCorto = nombreCompleto;
+        }
+
+        // Iniciales para el avatar 
+        string iniciales = "";
+        if (partes.Length >= 1)
+        {
+            iniciales += char.ToUpper(partes[0][0]);
+        }
+        if (partes.Length >= 2)
+        {
+            iniciales += char.ToUpper(partes[1][0]);
+        }
+    }
+
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark"
+         style="position: fixed; top: 0; left: 0; right: 0; z-index: 1000;">
+        <div class="container">
+            @Html.ActionLink("Tutorías Académicas", "Index", "Home", null, new { @class = "navbar-brand" })
+
+            <button type="button"
+                    class="navbar-toggler"
+                    data-toggle="collapse"
+                    data-target=".navbar-collapse"
+                    title="Alternar navegación">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                   
+                    @if (Session["Rol"] != null && Session["Rol"].ToString() == "Maestro")
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Tutorías", "Index", "Tutorias", null, new { @class = "nav-link" })
+                        </li>
+                    }
+                </ul>
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        
+
+                        @if (Session["Rol"] != null && Session["Rol"].ToString() == "")
+                        {
+                            <li class="nav-item">
+                                @Html.ActionLink("Tutorías", "Index", "Tutorias", null, new { @class = "nav-link" })
+                            </li>
+                        }
+                    </ul>
+
+                    @* --- Parte derecha de la barra --- *@
+                    @if (Session["UserId"] != null)
+                    {
+                        <div class="navbar-right">
+                            @Html.ActionLink(
+                                    Session["NombreCompleto"].ToString(),
+                                    "Index",
+                                    "Perfil",
+                                    null,
+                                    new { @class = "navbar-text text-white me-3", style = "text-decoration:none;" }
+                                )
+
+                            @using (Html.BeginForm("Logout", "Auth", FormMethod.Post, new { @class = "navbar-form navbar-right", style = "display:inline-block; margin:0;" }))
+                            {
+                                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    Cerrar sesión
+                                </button>
+                            }
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="navbar-right">
+                            @Html.ActionLink("Iniciar sesión", "Login", "Auth", null, new { @class = "btn btn-success btn-sm" })
+                        </div>
+                    }
+                </div>
+
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content mt-4" style="padding-top: 80px;">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Tutorías Académicas</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>
+
